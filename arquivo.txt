@@ -1,4 +1,4 @@
-﻿Oficina de Versionamento com Git
+﻿Oficina de Git
 
 Oficina pratica da utilização do git com gitkraken. Local: IFRO Vilhena
 
