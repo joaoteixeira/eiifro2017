@@ -1,5 +1,5 @@
 ﻿Oficina de Versionamento com Git
 
-Oficina pratica da utilização do git com gitkraken.
+Oficina pratica da utilização do git com gitkraken. Local: IFRO Vilhena
 
-Autor: Joao Teixeira
+Autor: Joao Teixeira Junior
