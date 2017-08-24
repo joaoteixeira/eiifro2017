@@ -3,3 +3,4 @@
 Oficina pratica da utilização do git com gitkraken.
 
 Autor: Joao Teixeira
+e-mail: joao.teixeira@ifro.edu.br
